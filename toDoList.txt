@@ -1,0 +1,18 @@
+
+1. Animacja po zniszczonym bloku.
+2. Animacja amunicji.
+3. Zbieranie amunicji.
+4. Zmiana broni.
+5. Dodatkowa broñ.
+6. Chowanie broni podczas biegu.
+7. Rzut granatem.
+8. Wybuch granatu podczas kolizji.
+9. Drzewa i krzaki.
+10. Wytrzyma³oœæ podczas biegania.
+11. Menu startowe (nowa scena).
+12. Menu Esc (UI).
+13. Pasek wytrzyma³oœci.
+14. Pasek ¿ycia.
+15. Dodanie modelu r¹k.
+16. Kucanie w powietrzu (do góry).
+17. Kopanie nog¹.
